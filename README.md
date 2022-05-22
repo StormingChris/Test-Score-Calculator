@@ -25,6 +25,6 @@ Use this program to find the min, max, and average for 5 test scores.
 No further iterations are planned.
 
 ## Authors
-Marlon Jimenez
-David Gonzalez
+Marlon Jimenez, 
+David Gonzalez, 
 Christopher Diaz
