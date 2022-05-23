@@ -10,7 +10,7 @@
 * [Authors](#Authors)
 
 ## Description
-{placeholder}
+This is a program written in LC-3 Assembly language. It takes in 5 input values and will return the lowest, highest and average test scores of the received values. The purpose is to implement programming concepts in assembly language. The concepts of stacking, I/O, arrays, subroutines, overflow and storage allocation and pointers are excercised in this program.
 
 ## Technologies
 This Project is made using LC-3 assembly language.
