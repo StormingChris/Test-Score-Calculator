@@ -16,7 +16,7 @@ This is a program written in LC-3 Assembly language. It takes in 5 input values 
 This Project is made using LC-3 assembly language.
 
 ## Installation
-To use this program, download the files and run in your favorite LC-3 simulator.
+To use this program, download the file, compile in your LC-3 editor and run in your favorite LC-3 simulator.
 
 ## Usage
 Use this program to find the min, max, and average for 5 test scores.
